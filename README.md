@@ -1,4 +1,5 @@
 **Hackerank**
+
 typedef struct {
     int u, v, w;
 } Edge;
